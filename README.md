@@ -1,1 +1,3 @@
-# github-actions-tutorial
+# GitHub-Actions-tutorial
+
+GitHub Actionsのチュートリアルを試すためのリポジトリ
